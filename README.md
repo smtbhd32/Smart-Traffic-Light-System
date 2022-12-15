@@ -16,8 +16,8 @@ In prototype we have used:
 3. Arduino Mega: To process the input data and and control the traffic lights.
  
  But in real life, we will be using:
-6. Cameras and Image Processing: To detect the density of traffic and emergency vehicles.
-7. Servers: For high speed image processing and controlling the lights.
+1. Cameras and Image Processing: To detect the density of traffic and emergency vehicles.
+2. Servers: For high speed image processing and controlling the lights.
 
 # Functioning:
 1. Traffic Density Distribution:- Ultrasonic sensors have been used for detecting traffic density.
