@@ -2,9 +2,9 @@
 
 Our Smart Traffic Light System leverages technology to improve traffic outcomes by introducing a sensing network, which provides feedback to the existing network, so that it can adapt to the changing traffic density patterns and provide necessary signals to the controller in real-time.
   A robust system is able to:
-1.Collect data from vehicle detector devices at each intersection
-2.Dynamically adapt traffic signal timing in real time
-3.Make incremental adjustments to the traffic signal timing based on the changes in traffic flow at each intersection
+1. Collect data from vehicle detector devices at each intersection
+2. Dynamically adapt traffic signal timing in real time
+3. Make incremental adjustments to the traffic signal timing based on the changes in traffic flow at each intersection
 
 PPT Presentation Link: https://docs.google.com/presentation/d/1qSLJ-Fr2QsCUIA8nrOWHM6d1ZZNi4zaKGYpAhde-_mI/edit?usp=sharing
 
