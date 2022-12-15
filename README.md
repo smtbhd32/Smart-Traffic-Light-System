@@ -11,12 +11,12 @@ PPT Presentation Link: https://docs.google.com/presentation/d/1qSLJ-Fr2QsCUIA8nr
 # Our Prototype:
  We have developed a working model to demonstrate the efficiency of our idea.
 In prototype we have used:
-1.Ultrasonics Sensors: To detect the density of traffic in various lanes.
-2.RFID Tags: To detect the Emergency Vehicles.
-3.Arduino Mega: To process the input data and and control the traffic lights.
+1. Ultrasonics Sensors: To detect the density of traffic in various lanes.
+2. RFID Tags: To detect the Emergency Vehicles.
+3. Arduino Mega: To process the input data and and control the traffic lights.
  But in real life, we will be using:
-1.Cameras and Image Processing: To detect the density of traffic and emergency vehicles.
-2.Servers: For high speed image processing and controlling the lights.
+1. Cameras and Image Processing: To detect the density of traffic and emergency vehicles.
+2. Servers: For high speed image processing and controlling the lights.
 
 # Functioning:
 1. Traffic Density Distribution:- Ultrasonic sensors have been used for detecting traffic density.
@@ -24,8 +24,8 @@ In prototype we have used:
 3. Exit of Emergency vehicles:- We have added a clearance mechanism for emergency vehicles like ambulance and fire engines which basically works on RFID tags. RFID tags are allotted to a emergency vehicles. As soon as the RFID reader detects emergency vehicle, system will display the message on LCD screens to ask people to make way. And the system will also turn on the green light of that lane to make way.
 
 # Advantages:
-1.We have added a clearance mechanism for emergency vehicles.
-2.The inefficient traffic light switching in quad-lane system can be rectified with our project.
-3.Unnecessary man power which was a disadvantage in existing system can be eliminated with this project.
-4.Traffic lights will switch based on real time Traffic density feedback.
+1. We have added a clearance mechanism for emergency vehicles.
+2. The inefficient traffic light switching in quad-lane system can be rectified with our project.
+3. Unnecessary man power which was a disadvantage in existing system can be eliminated with this project.
+4. Traffic lights will switch based on real time Traffic density feedback.
 
